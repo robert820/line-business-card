@@ -1,0 +1,85 @@
+END-USER LICENSE AGREEMENT (EULA)
+專有免費軟體授權合約（自架系統版）
+================================================================================
+
+IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY BEFORE DOWNLOADING, DEPLOYING, OR USING THIS SOFTWARE.
+重要須知：在下載、部署或使用本軟體前，請詳細閱讀本合約之所有條款。
+
+Copyright (c) 2026 得翼科技 DEI Tech (DEI 3C). All rights reserved.
+Official Website: https://blog.dei3c.com
+
+Language Notice / 語言效力聲明:
+This Agreement is drafted in English and Traditional Chinese. In the event of any conflict, ambiguity, or discrepancy between the two versions, the English version shall govern and control in all respects.
+本合約以英文與繁體中文並行訂立。若中文版本與英文版本之間存在任何牴觸、歧異或疑義，悉以英文版本為準。
+
+================================================================================
+PART 1: ENGLISH TERMS
+================================================================================
+
+1. GRANT OF LICENSE
+DEI Tech ("Licensor") hereby grants you a personal, non-exclusive, non-transferable, royalty-free license to download, deploy, and run the official packaged release of the software, including its official container image ("Software"), on servers, NAS devices, or other systems under your possession or control, for your own or your organization's internal business purposes, without paying any license fee. The Software is licensed, not sold. The source code is not provided and no right to the source code is granted.
+
+2. DISTRIBUTION
+You may redistribute exact, unmodified copies of the official packaged release of the Software, provided that:
+(a) No fee, payment, or consideration is charged for the Software itself (whether standalone or bundled);
+(b) All copyright notices, trademarks, and branding belonging to Licensor remain intact and unmodified;
+(c) This EULA and the THIRD_PARTY_NOTICES.md file are distributed along with the Software.
+
+3. RESTRICTIONS
+You shall not, and shall not permit any third party to:
+(a) Sell, rent, lease, sublicense, loan, or monetize the Software in any manner, including offering the Software to third parties as a paid hosted or managed service;
+(b) Decompile, reverse engineer, disassemble, decrypt, or otherwise attempt to derive or reconstruct the source code of the Software, except to the extent such restriction is prohibited by applicable law;
+(c) Modify, alter, patch, translate, or create derivative works of the Software;
+(d) Remove, obscure, or alter any proprietary notices, logos, or trademarks of Licensor;
+(e) Bundle, inject, or repackage the Software with any adware, spyware, trojans, backdoors, or other malicious payloads.
+
+4. DATA AND PRIVACY
+The Software runs entirely on systems you control. Licensor does not receive, collect, or host the business card data, images, or administrator credentials you store in the Software, and the Software does not transmit telemetry to Licensor. You are solely responsible for the content you publish, for the lawful handling of the personal data of the people shown on your business cards, for securing your deployment (including HTTPS and the administrator credentials), and for backing up your data.
+
+5. THIRD-PARTY COMPONENTS AND SERVICES
+The Software includes third-party components that are licensed under their own terms, listed in THIRD_PARTY_NOTICES.md; this EULA does not apply to them. The optional LINE integration uses the LINE Front-end Framework (LIFF), which is provided by LY Corporation under the LINE Developers Agreement; your use of LIFF and of LINE services is subject to LINE's own terms. The Software is not affiliated with, endorsed by, or sponsored by LY Corporation or LINE. "LINE" and related names and logos are trademarks of their respective owners.
+
+6. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS, BE SECURE, OR OPERATE UNINTERRUPTED OR ERROR-FREE.
+
+7. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL LICENSOR, ITS DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF DATA, REVENUE, OR PROFITS, OR BUSINESS INTERRUPTION) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, WHETHER BASED ON TORT, CONTRACT, OR ANY OTHER LEGAL THEORY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8. TERMINATION
+This license terminates automatically if you breach any term of this Agreement. Upon termination you must stop using the Software and delete all copies in your possession.
+
+================================================================================
+PART 2: 繁體中文條款
+================================================================================
+
+第一條 授權範圍 (Grant of License)
+得翼科技（以下稱「授權人」）在此授予您一項非專屬、不可轉讓、免權利金之使用權利。您得於所持有或支配之伺服器、NAS 或其他系統上，下載、部署與執行本軟體之官方封裝版本（含官方容器映像，以下稱「本軟體」），供您本人或所屬組織內部業務使用，毋須支付任何授權費用。本軟體係授權使用而非出售；授權人不提供原始碼，亦不授予任何取得原始碼之權利。
+
+第二條 散布條款 (Distribution)
+您得散布原版未經修改之本軟體官方封裝版本，惟須完全符合下列條件：
+(一) 不得對本軟體本身收取費用或對價（無論單獨或捆綁）；
+(二) 完整保留授權人之著作權聲明與品牌商標；
+(三) 散布時須一併附上本授權合約與 THIRD_PARTY_NOTICES.md。
+
+第三條 使用限制 (Restrictions)
+使用者不得從事，亦不得允許或協助任何第三方從事下列行為：
+(一) 販售、出租、出借、轉授權或以任何方式營利，包括將本軟體作為付費代管或託管服務提供予第三人；
+(二) 對本軟體進行反向工程、反編譯、反彙編、解密或試圖取得原始碼（但相關法律明文禁止此限制者，不在此限）；
+(三) 修改、破解、修補、翻譯或製作衍生著作；
+(四) 刪除、遮蔽或變更授權人於本軟體標註之商標、Logo 或版權標示；
+(五) 植入任何廣告外掛、木馬程式、間諜代碼或惡意組件後重新分發。
+
+第四條 資料與隱私 (Data and Privacy)
+本軟體完全運行於您所控管之系統上。授權人不會接收、蒐集或代管您存放於本軟體中的名片資料、圖片或管理員憑證，本軟體亦不會向授權人回傳遙測資料。您須自行負責所發布之內容、名片上相關人員個人資料之合法處理、部署環境之安全（包括 HTTPS 與管理員憑證），以及資料備份。
+
+第五條 第三方元件與服務 (Third-Party Components and Services)
+本軟體包含依其各自條款授權之第三方元件，詳列於 THIRD_PARTY_NOTICES.md，本合約不適用於這些元件。選用的 LINE 整合使用 LY Corporation 依 LINE Developers Agreement 提供之 LINE Front-end Framework (LIFF)，您對 LIFF 與 LINE 服務之使用須遵守 LINE 自身條款。本軟體與 LY Corporation 或 LINE 無任何隸屬、背書或贊助關係；「LINE」及相關名稱與標誌為其權利人之商標。
+
+第六條 免責聲明 (Disclaimer of Warranties)
+本軟體係以「現狀 (AS IS)」及「現有 (AS AVAILABLE)」基礎免費提供，授權人不負任何形式之明示或默示擔保責任，包括但不限於對適銷性、特定用途之適用性及未侵害他人權利之擔保，亦不保證本軟體符合您的需求、安全無虞，或執行過程不中斷、無錯誤。
+
+第七條 責任限制 (Limitation of Liability)
+在相關法律所允許之最大範圍內，授權人對於因使用或無法使用本軟體所產生之任何直接、間接、附隨、特別、懲罰性或衍生性損害（包括資料遺失、預期利益損失、業務中斷等），無論係基於侵權行為、契約違反或其他法律理論，即便授權人曾被告知該損害之可能性，概不負責。
+
+第八條 終止 (Termination)
+您違反本合約任一條款時，本授權自動終止。終止後您須立即停止使用並刪除所持有之所有副本。
